@@ -9,3 +9,13 @@ Man vil bl.a. kunne få introduktion til:
   <li>Gephi</li>
   <li>OpenRefine</li>
 </ol>
+<table>
+  <tr>
+    <td>Forudsætninger</td>
+    <td>Kursus</td>
+  </tr>
+  <tr>
+    <td>Installeret NVivo</td>
+    <td>NVivo</td>
+  </tr>
+</table>
