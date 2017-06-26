@@ -7,4 +7,5 @@ Man vil bl.a. kunne få introduktion til:
   <li>GitHub</li>
   <li>Atom</li>
   <li>Gephi</li>
+  <li>OpenRefine</li>
 </ol>
