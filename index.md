@@ -5,4 +5,6 @@ Man vil bl.a. kunne få introduktion til:
   <li>NVivo</li>
   <li>Netvizz</li>
   <li>GitHub</li>
+  <li>Atom</li>
+  <li>Gephi</li>
 </ol>
